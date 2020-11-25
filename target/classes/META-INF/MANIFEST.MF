@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Dependencies: org.apache.cxf, org.apache.ws.security, org.apache.cxf.impl

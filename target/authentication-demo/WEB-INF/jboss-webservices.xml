@@ -1,0 +1,17 @@
+<webservices version="1.2"
+             xmlns="http://www.jboss.com/xml/ns/javaee"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.jboss.com/xml/ns/javaee">
+    <!--<property>-->
+        <!--<name>modify-wsdl-address</name>-->
+        <!--<value>false</value>-->
+    <!--</property>-->
+    <property>
+        <name>wsdl.soapAddress.rewrite.wsdl-host</name>
+        <value>10.10.11.100</value>
+    </property>
+    <property>
+        <name>wsdl.soapAddress.rewrite.wsdl-port </name>
+        <value>9014</value>
+    </property>
+</webservices>

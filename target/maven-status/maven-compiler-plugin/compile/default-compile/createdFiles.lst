@@ -1,0 +1,12 @@
+hu\gov\allamkincstar\webservices\dummyauthentication\util\AuthenticationInterceptor.class
+hu\gov\allamkincstar\webservices\dummyauthentication\model\response\DummyRequest.class
+hu\gov\allamkincstar\webservices\dummyauthentication\entities\Szemely.class
+hu\gov\allamkincstar\webservices\dummyauthentication\entities\Szemely_.class
+hu\gov\allamkincstar\webservices\dummyauthentication\model\response\DummyResponse.class
+hu\gov\allamkincstar\webservices\dummyauthentication\model\response\ObjectFactory.class
+hu\gov\allamkincstar\webservices\dummyauthentication\service\DummyAuthenticationInterface.class
+hu\gov\allamkincstar\webservices\dummyauthentication\dtos\AuthenticationData.class
+hu\gov\allamkincstar\webservices\dummyauthentication\model\response\Adapter1.class
+hu\gov\allamkincstar\webservices\dummyauthentication\util\ConfigurationProvider.class
+hu\gov\allamkincstar\webservices\dummyauthentication\util\AuthenticationUserEJB.class
+hu\gov\allamkincstar\webservices\dummyauthentication\service\DummyAuthentication.class
